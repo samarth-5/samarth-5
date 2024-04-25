@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samarth Narayan</h1>
-<h3 align="center">A Frontend Developer transitioning to Full-Stack & mastering Java-based Data Structures and Algorithms</h3>
+<h3 align="center">Full-stack software developer with expertise in front-end and back-end development, experienced in strong
+problem-solving skills.</h3>
 
 - 🌱 I’m currently learning **MERN stack.**
 
