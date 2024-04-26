@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samarth Narayan</h1>
-# 💫 About Me:
+💫 About Me:
 Full-stack software developer with expertise in front-end and back-end development, experienced in strong problem-solving skills.
 
 # 💻 Tech Stack:
