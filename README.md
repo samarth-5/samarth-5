@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Samarth Narayan</h1>
 <h2 align="center">Full-stack software developer with expertise in front-end and back-end development, experienced in strong problem-solving skills.</h2>
-
+<div align="center" >
+  <img width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGxmb3B0NWw2bTN2cG5zdGxzM2ZoOHhqbGQzbGVnaDh0N3BrcW51MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="coding">
+</div>
 
 # 💻 Tech Stack:
 <h2>Languages</h2>
