@@ -7,11 +7,11 @@
 # 💻 Tech Stack:
 <h2>Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,cpp,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,cpp,c,dart)](https://skillicons.dev)
 
 <h2>Frontend</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,vite,tailwind,redux,bootstrap,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,vite,tailwind,redux,bootstrap,materialui,flutter)](https://skillicons.dev)
 
 <h2>Backend</h2>
  
@@ -19,11 +19,11 @@
 
 <h2>Databases</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=mongo,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongo,mysql,firebase)](https://skillicons.dev)
 
 <h2>Tools</h2>
  
-[![My Skills](https://skillicons.dev/icons?i=git,github,firebase,postman,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman,vscode)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
