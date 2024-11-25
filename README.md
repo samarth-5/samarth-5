@@ -7,11 +7,11 @@
 # 💻 Tech Stack:
 <h2>Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,cpp,c,dart)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,cpp,c,dart,ts)](https://skillicons.dev)
 
 <h2>Frontend</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,vite,tailwind,redux,bootstrap,materialui,flutter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,vite,tailwind,redux,bootstrap,materialui,next,flutter)](https://skillicons.dev)
 
 <h2>Backend</h2>
  
