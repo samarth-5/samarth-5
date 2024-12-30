@@ -9,17 +9,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,js,cpp,c,dart,ts)](https://skillicons.dev)
 
-<h2>Frontend</h2>
+<h2>Frontend Libraries & Frameworks</h2>
   
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,vite,tailwind,redux,bootstrap,materialui,next,flutter)](https://skillicons.dev)
 
-<h2>Backend</h2>
+<h2>Backend & Databases</h2>
  
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,npm)](https://skillicons.dev)
-
-<h2>Databases</h2>
-  
-[![My Skills](https://skillicons.dev/icons?i=mongo,mysql,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,npm,mongo,mysql,firebase)](https://skillicons.dev)
 
 <h2>Tools</h2>
  
@@ -27,6 +23,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=samarth-5&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-<img src="https://github-readme-stats.vercel.app/api?username=samarth-5&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=midnight-purple" />
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=samarth-5&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=midnight-purple" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarth-5&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+</div>
