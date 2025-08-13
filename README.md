@@ -15,7 +15,7 @@
 
 <h2>Backend, Databases & Tools</h2>
  
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,npm,mongo,mysql,firebase,spring,git,github,postman,vscode,idea,maven)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,spring,npm,mongo,mysql,firebase,git,github,postman,vscode,idea,maven)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 <div style="display: flex; align-items: center; gap: 20px;">
