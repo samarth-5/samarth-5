@@ -19,6 +19,6 @@
 
 # 📊 GitHub Stats:
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=samarth-5&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=midnight-purple" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarth-5&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samarth-5&show_icons=true&show=prs_merged,prs_merged_percentage&theme=midnight-purple" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarth-5&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact&langs_count=10" />
 </div>
